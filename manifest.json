@@ -1,0 +1,9 @@
+{
+  "domain": "drought_monitor",
+  "name": "Drought Monitor",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jlrosssc/drought_monitor",
+  "dependencies": [],
+  "codeowners": ["@jlrosssc"],
+  "requirements": ["requests"]
+}
