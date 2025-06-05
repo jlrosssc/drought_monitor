@@ -1,0 +1,10 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Drought Monitor",
+                "description": "Set up Drought Monitor sensor using zone.home coordinates."
+            }
+        }
+    }
+}
